@@ -20,7 +20,7 @@ public class Vinicultores {
             System.out.println("la potencia es: " + 1);
         }
         else if (expo < 0){
-            System.out.println("la potencia con exponente negativo es: " + potencianeg);
+            System.out.println("la potencia con exponente negativ es: " + potencianeg);
         }
     
         sc.close();
